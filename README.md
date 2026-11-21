@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://chiemela.dev"><img alt="Website" src="https://img.shields.io/badge/chiemela.dev-F97316?style=for-the-badge&logo=cloudflare&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/chiemelaumeh"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:hello@chiemela.dev"><img alt="Email" src="https://img.shields.io/badge/hello@chiemela.dev-0A0A0A?style=for-the-badge&logo=maildotru&logoColor=white"></a>
+  <a href="mailto:chiemelaumeh1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/chiemelaumeh1@gmail.com-0A0A0A?style=for-the-badge&logo=maildotru&logoColor=white"></a>
 </p>
 
 ---
